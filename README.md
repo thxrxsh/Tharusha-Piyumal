@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thxrxsh
+- 👋 Hi, I’m Tharusha Piyumal
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python and Java-Script
 - 📫 Mail : 1tharushapiyumal@gmail.com 
