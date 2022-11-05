@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tharusha Piyumal
+- 👋 Hi, I’m Tharusha Piyumal Wijesiri.
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python and Java-Scripts
 - 📫 piyumal.sendmail@gmail.com
