@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tharusha Piyumal Wijesiri.
+- 👋 Hi, I’m Tharusha Piyumal Wijesiri
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and Java-Scripts
+- 🌱 I’m currently learning Python, Java-Scripts and C
 - 📫 piyumal.sendmail@gmail.com
 
 <!---
